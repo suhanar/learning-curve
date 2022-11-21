@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.sub_cont > p {
+    color:white;
+    padding-top:21px;
+
+
+}
+.container{
+    position:absolute;
+    background-color: brown;
+    width:500px;
+    height:200px;
+    text-align: center;
+}
+#second{
+    position:absolute;
+    margin-left:600px;
+}
+#third{
+    position:absolute;
+    margin-top:300px;
+}
+#fourth{
+    position:absolute;
+    margin-top:300px;
+    margin-left:600px;
+}
